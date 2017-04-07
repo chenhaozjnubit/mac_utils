@@ -15,3 +15,4 @@ do
 		brew cask reinstall $name
 	fi
 done
+brew cask cleanup
